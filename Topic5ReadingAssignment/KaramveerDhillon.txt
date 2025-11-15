@@ -1,0 +1,8 @@
+Reading Material format: digital
+Reading Material format: print
+Type: Newspaper
+Pages: 15
+Reading Material format: print
+Type: Book
+Pages: 250
+Bindng: softcover
